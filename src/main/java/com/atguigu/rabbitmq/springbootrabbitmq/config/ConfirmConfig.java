@@ -14,6 +14,7 @@ import org.springframework.context.annotation.Configuration;
 public class ConfirmConfig {
 
     //交换机名字
+    //再来一个注意测试git
     public static final String CONFIRM_EXCHANGE_NAME = "confirm.exchange";
     public static final String CONFIRM_ROUTING_KEY = "confirm.routingKey";
     public static final String CONFIRM_QUEUE_NAME = "confirm.queue";
